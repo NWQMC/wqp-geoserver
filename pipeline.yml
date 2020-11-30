@@ -1,5 +1,5 @@
 projectName: wqp-external
-dockerImageName: kartoza/geoserver
+dockerImageName: artifactory.wma.chs.usgs.gov/docker-official-mirror/kartoza/geoserver
 memory: 3072
 applicationName: wqp-geoserver
 containerPort: 8080
